@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"math/rand"
 
-	"github.com/taimoorgit/moredefaults"
+	"github.com/opslevel/moredefaults"
 )
 
 type Gender string

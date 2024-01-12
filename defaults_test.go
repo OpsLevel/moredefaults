@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/taimoorgit/moredefaults/internal/fixture"
+	"github.com/opslevel/moredefaults/internal/fixture"
 )
 
 type (

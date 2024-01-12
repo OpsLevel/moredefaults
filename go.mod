@@ -1,3 +1,3 @@
-module github.com/taimoorgit/moredefaults
+module github.com/opslevel/moredefaults
 
 go 1.14
